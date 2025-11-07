@@ -3,8 +3,9 @@
 :root {--rounding: 12px;}
 
 .pageTitleWithDefaultLogo {
-  background-image: url("https://raw.githubusercontent.com/its-jaxx/Lumio/main/Lumio.png") !important;
+  background-image: url("https://cdn.jsdelivr.net/gh/its-jaxx/Lumio/Lumio.png") !important;
 
 }
+
 
 
