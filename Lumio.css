@@ -2,10 +2,4 @@
 :root {--accent: 0,98.63553000000002,149.94;}
 :root {--rounding: 12px;}
 
-.pageTitleWithDefaultLogo {
-  background-image: url("https://cdn.jsdelivr.net/gh/its-jaxx/Lumio/Lumio.png") !important;
-
-}
-
-
-
+.pageTitleWithDefaultLogo { background-image: url("https://cdn.jsdelivr.net/gh/its-jaxx/Lumio@latest/Lumio.png") !important; }
