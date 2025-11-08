@@ -1,5 +1,6 @@
-@import url('https://ctalvio.github.io/Kaleidochromic/default_style.css');
-:root {--accent: 0,98.63553000000002,149.94;}
-:root {--rounding: 12px;}
+@import url('https://cdn.jsdelivr.net/gh/ShiniGandhi/JellyTheme@latest/latest/JellyTheme.css'); 
+@import url('https://cdn.jsdelivr.net/gh/ShiniGandhi/JellyTheme@latest/latest/Resize-Cards.css');
+:root {--accent:rgba(98.00787045,121.00999580324999,204.99450000000002,1)!important;}
 
 .pageTitleWithDefaultLogo { background-image: url("https://cdn.jsdelivr.net/gh/its-jaxx/Lumio@latest/Lumio.png") !important; }
+
